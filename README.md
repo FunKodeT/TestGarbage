@@ -2,15 +2,15 @@
 
 ## LEGEND
 
-~ - SUBSECTION
-() - NOTATION
-[] - DIRECTORY LOCALE
-[Link](https://www.github.com/FunKodeT/)
-= - THIS IS NOW EQUAL TO THIS
-|| - FILE VERSION
-&+ - AND + CONTENTS
+~ - SUBSECTION;
+() - NOTATION;
+[] - DIRECTORY LOCALE;
+[Link](https://www.github.com/FunKodeT/);
+= - THIS IS NOW EQUAL TO THIS;
+|| - FILE VERSION;
+&+ - AND + CONTENTS;
 
-> MC - DEV COMMENT
+> MC - DEV COMMENT;
 
 ### BRANCH 0
 
