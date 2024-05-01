@@ -1,6 +1,6 @@
-# :-VERSION HISTORY-:
+<h1 align="center">VERSION HISTORY</h1>
 
-## :-LEGEND-:
+<h2 align="center">LEGEND</h2>
 
 ~ **SUBSECTION**
 
