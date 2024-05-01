@@ -2,7 +2,16 @@
 
 <h2 align="center">LEGEND</h2>
 
-~ **SUBSECTION**
+<p align="center">
+    <ul>
+        <li>~       <strong>SUBSECTION</strong></li>
+        <li>()      <strong>NOTATION</strong></li>
+        <li>[]      <strong>DIRECTORY LOCALE</strong></li>
+        <li>=       <strong>NOW EQUAL TO THIS</strong></li>
+        <li>||      <strong>FILE VERSION</strong></li>
+        <li>&+      <strong>AND + CONTENTS</strong></li>
+    </ul>
+</p>
 
 () **NOTATION**
 
@@ -20,10 +29,8 @@
 
 ---
 
-### BRANCH 0
+<h3 align="center">BRANCH 0</h3>
 
----
-
-#### VERSION 0.0
+<h4 align="center">VERSION 0.0</h4>
 
 ---
