@@ -12,23 +12,23 @@
         <td>SUBSECTION</td>
     </tr>
     <tr>
-        <td></td>
+        <td>()</td>
         <td>NOTATION</td>
     </tr>
     <tr>
-        <td></td>
+        <td>[]</td>
         <td>DIRECTORY LOCALE</td>
     </tr>
     <tr>
-        <td></td>
+        <td>=</td>
         <td>EQUAL TO THIS</td>
     </tr>
     <tr>
-        <td></td>
+        <td>||</td>
         <td>FILE VERSION</td>
     </tr>
     <tr>
-        <td></td>
+        <td>&+</td>
         <td>AND + CONTENTS</td>
     </tr>
     <tr>
@@ -46,5 +46,9 @@
 <h3 align="center">BRANCH 0</h3>
 
 <h4 align="center">VERSION 0.0</h4>
+
+---
+
+---
 
 ---
