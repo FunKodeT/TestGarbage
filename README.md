@@ -1,25 +1,29 @@
-# VERSION HISTORY
+<h1 style="text-align: center"> VERSION HISTORY</h1>
 
-## LEGEND
+<h2 style="text-align: center">LEGEND</h2>
 
-~ - SUBSECTION
+~ **SUBSECTION**
 
-() - NOTATION
+() **NOTATION**
 
-[] - DIRECTORY LOCALE
+[] **DIRECTORY LOCALE**
 
-[Link](https://www.github.com/FunKodeT/)
+[Links](https://www.github.com/FunKodeT/)
 
-= - THIS IS NOW EQUAL TO THIS
+= **THIS IS NOW EQUAL TO THIS**
 
-|| - FILE VERSION
+|| **FILE VERSION**
 
-&+ - AND + CONTENTS
+&+ **AND + CONTENTS**
 
-> MC - DEV COMMENT
+> **MC: DEV COMMENT**
 
-<hr style: "border=2px solid black"/>
+---
 
 ### BRANCH 0
 
+---
+
 #### VERSION 0.0
+
+---
